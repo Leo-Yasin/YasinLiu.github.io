@@ -1,5 +1,3 @@
-# Leo-Yasin.github.io
-Leo-Yasin的个人主页
 # 刘宇轩 Yasin Liu
 
 **求职方向：AI Agent 开发**
