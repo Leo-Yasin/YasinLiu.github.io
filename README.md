@@ -1,6 +1,6 @@
 # 刘宇轩 Yasin Liu
 
-**求职方向：AI Agent 开发**
+**当前方向：AI Agent 开发、区块链**
 
 - 📧 邮箱：lyx1499123312@163.com
 - 📱 电话：15155383970
@@ -83,8 +83,8 @@
 ## 项目经历
 
 ### 阿里云 Qoder 2026 世界杯预测 Agent
-
-**个人项目 · 一等奖**
+[项目链接](https://github.com/tgghzyh/WorldCupAgent)
+**比赛项目 · 一等奖**
 
 - **端到端交付：**  
   独立构建 `DataForAgent → worldcup_agent → data → frontend` 数据链路，覆盖数据读取、Agent 推理、预测快照、质量检查与前端展示。
@@ -119,7 +119,7 @@
 
 ## 竞赛与荣誉
 
-- 中国大学生计算机设计大赛（浙江省）一等奖
+- 中国大学生计算机设计大赛（浙江省）一等奖 [项目链接](https://github.com/Leo-Yasin/2023BLCU_Project)
 - 阿里云宜搭低代码大学生技术公益实践计划第一名
 - 浙江省第十八届“挑战杯”金奖
 - 优秀毕业生
